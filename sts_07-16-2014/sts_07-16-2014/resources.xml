@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--If you use a relative link, it will automatically look in the resources folder located in the same folder as the resources.php-->
+<!--Name attribute can either be the file's name or whatever you prefer to call it-->
+
+<!--preview should include relative paths like /example.jpg it will always check from resources/previews/ folder-->
+
+<!--Example Resource (Copy This)-->
+<!--
+	<resource>
+		<name></name>
+		<link></link>
+		<contributor></contributor>
+		<dateAdded></dateAdded>
+		<description></description>
+		<preview></preview>
+	</resource>
+-->
+
+<!--NOTE: EVERY FIELD MUST BE FILLED OR THE PAGE WILL NOT RENDER-->
+<!--NOTE: RESOURCES ARE LOADED IN ORDER FROM TOP TO BOTTOM, SORT IT HOWEVER YOU LIKE WITH THAT IN MIND-->
+<resources>
+
+	<resource>
+		<name>Biodiversity (prezi)</name>
+		<link>http://prezi.com/o24exbm5_syk/biodiversity/</link>
+		<contributor>Amna Hyder</contributor>
+		 <dateAdded>07/18/2014</dateAdded>
+		<description>A biodiversity energy presentation that can be modified to suit grades 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+It can be used in a science, social science or physics class.</description>
+		<preview>biodiversity_prezi.jpg</preview>
+	</resource>
+
+	<resource>
+		<name>Biodiversity Quiz</name>
+		<link>biodiversity.pdf</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A biodiversity assessment that can be modified to suit grades 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+It can be used in a science, social science or physics class.</description>
+		<preview>biodiversity.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Cancer - Grade 8 (prezi)</name>
+		<link>http://prezi.com/dpgdowhd0sg3/cancer-grade-8/</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A presentation that gives an integrated and in-depth look at cancer that can be modified to suit grades 6, 7, 8, 9, 10
+It can be used in a science class. </description>
+		<preview>cancer_grade8_prezi.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Cancer Quiz (pdf)</name>
+		<link>Cancer.pdf</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>An assessment for the cancer presentation that can be modified to suit grades 6, 7, 8, 9, 10
+It can be used in a science class. </description>
+		<preview>cancer.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Cancer Quiz (.pptx)</name>
+		<link>Cancer Quiz.pptx</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>An assessment for the cancer presentation that can be modified to suit grades 6, 7, 8, 9, 10
+It can be used in a science class. 
+</description>
+		<preview>cancer_quiz.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Drug Development Presentation (.pdf)</name>
+		<link>Drug Development.pdf</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A presentation for grade 11 or 12 chemistry that looks at how drugs can be synthesized and the procedure behind developing a new drug. </description>
+		<preview>drug_dev_pres.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Neuro Presentation (.pptx)</name>
+		<link>Neuro Presentation.pptx</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A presentation that looks at neurons and conduction. It can be modified for a physics or biology class in grade 11 or 12. 
+</description>
+		<preview>neuro_pres.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Neuro Quiz (.pdf)</name>
+		<link>neuroscience.pdf</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description> The accompanying assessment for the neuroscience presentation.</description>
+		<preview>neuroscience_quiz.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Radiation Therapy (prezi)</name>
+		<link>http://prezi.com/7aobkgppyetk/radiation/</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A sustainable energy presentation that can be modified to suit grades 11 and 12
+It is targeted for a biology, chemistry or physics class.</description>
+		<preview>radiation_therapy_prezi.jpg</preview>
+	</resource>
+	
+	<resource>
+		<name>Sustainable Energy (prezi)</name>
+		<link>http://prezi.com/rzolmahd5olj/sustainable-energy/</link>
+		<contributor>Amna Hyder</contributor>
+		<dateAdded>07/18/2014</dateAdded>
+		<description>A sustainable energy presentation that can be modified to suit grades 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+It can be used in a science, social science or physics class.</description>
+		<preview>sustainable_energy.jpg</preview>
+	</resource>
+</resources>

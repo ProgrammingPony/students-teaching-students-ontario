@@ -1,0 +1,38 @@
+#image-slide-container {
+  width:600px;
+  height:320px;
+  padding:10px;
+  display:block;
+  background-color:#EFEFEF;
+  border-radius:5px;
+}
+
+#image-slide {
+  height:300px;
+  width:600px;
+  float:left;
+  clear:both;
+}
+
+.slide-tab {
+  height:7px;
+  width:7px;
+  border-radius:7px;
+  background-color:#000000;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
+  float:left;
+}
+
+.slide-tab[type=leftmost] {
+	clear:left;
+}
+
+.slide-tab[type=rightmost] {
+
+}
+
+.slide-tab[type=center] {
+	clear:right;
+}
