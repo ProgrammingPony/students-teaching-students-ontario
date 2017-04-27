@@ -1,6 +1,6 @@
 <?php
 //REMOVE FOLDER EXTENTION AFTER PUTTING ONLINE
-require( $_SERVER['DOCUMENT_ROOT'] . '/sts_07-16-2014' . 'template/template1_variables.php');
+require( $_SERVER['DOCUMENT_ROOT'] . '/template/template1_variables.php');
 require($template_root . 'template1_head.phtml');
 ?>
 <meta name="description" content="How to get in touch with Students Teaching Students. This can be for general inquiries and for science fair registrations. STS">

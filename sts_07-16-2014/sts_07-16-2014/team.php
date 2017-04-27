@@ -1,6 +1,6 @@
 <?php
 //REMOVE FOLDER EXTENTION AFTER PUTTING ONLINE
-require( $_SERVER['DOCUMENT_ROOT'] . '/sts_07-16-2014' . '/template/template1_variables.php');
+require( $_SERVER['DOCUMENT_ROOT'] . '/template/template1_variables.php');
 require($template_root . 'template1_head.phtml');
 ?>
 <meta name="description" content="An introduction to our team at Students Teaching Students! Founders and other individuals who made STS what it is!">

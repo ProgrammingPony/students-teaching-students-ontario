@@ -1,6 +1,6 @@
 <?php
 //REMOVE FOLDER EXTENTION AFTER PUTTING ONLINE
-require( $_SERVER['DOCUMENT_ROOT'] . '/sts_07-16-2014' . '/template/template1_variables.php');
+require( $_SERVER['DOCUMENT_ROOT'] . '/template/template1_variables.php');
 require($template_root . 'template1_head.phtml');
 ?>
 <meta name="description" content="We are Students Teaching Students! An introduction of who we are and what we do!">
@@ -89,7 +89,7 @@ better prepare them for scientific research in the future.</p>
 </div>
 
 <div id="science-fair-contact-button">
-	<a href="<?php echo $domain_base?>contact.php">Contact Us for a Guest Lecture</a>
+	<a href="<?php echo $domain_base_url?>contact.php">Contact Us for a Guest Lecture</a>
 </div>
 
 
